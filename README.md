@@ -1,0 +1,1 @@
+Durante a realização da criação das branchs acabou que a branch 3 que ficou como a master pelo jeito, pq não consegui fazer merge dela para a master e ela que ficou com todos os exercicios quando fiz o merge, foi algum erro meu, peço desculpas e espero melhorar
